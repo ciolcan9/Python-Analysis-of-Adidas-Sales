@@ -1,2 +1,1 @@
-# Python-Analysis-of-Adidas-Sales
-This is a Python analysis project (Proiect_Analiza_Python_Seller_Adidas.ipynb) that focuses on the sales performance of Adidas products, using the "Adidas Sales Dataset" from Kaggle.
+# This is a Python analysis team project (Proiect_Analiza_Python_Seller_Adidas.ipynb) investigating Adidas product sales performance. The purpose of the business is to provide an analysis of qualitative factors (retailer, city, category, date) influencing sales. The project involved data preprocessing, profit and profit margin analysis, and the use of Python libraries for predictions. The Python libraries used were pandas, numpy, matplotlib, seaborn, and scikit-learn.
